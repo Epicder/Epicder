@@ -8,16 +8,18 @@
 </div>
 <br/>
 💬 About me:<br><br>
-Software developer - Python, Dart & Javascript specialist | Eng & Esp.<br>
-Vaporwave enthusiast!<br>
-<img src="./img/pc.gif" alt="pc_gif">
+
 class Myself:<br>
 ‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎  ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎def __init__(self):<br>
      ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ ‎‏‏‎  self.name = "Elián"<br>
  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ self.age = 18<br>
  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ self.quote = "I will improve more and more everyday!"<br>
  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ self.im_dedicated = True<br>
- 
+<br>
+ Vaporwave enthusiast!<br>
+ <div align="right">
+<img src="./img/pc.gif" alt="pc_gif">
+</div>
 <div align="center">
 
 # 👨‍💻 Technologies:
