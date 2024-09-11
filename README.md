@@ -3,10 +3,13 @@
 # Hello (world)! Im:
 
 <img src="./img/banner.jpg" alt="banner image">
+‎‏‏‎
 <img src="./img/separator.jpg" alt="separator">
-
 </div>
+<br/>
 💬 About me:<br><br>
+Software developer - Python, Dart & Javascript specialist | Eng & Esp.
+Vaporwave enthusiast!
 class Myself:<br>
 ‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎  ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎def __init__(self):<br>
      ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ ‎‏‏‎  self.name = "Elián"<br>
