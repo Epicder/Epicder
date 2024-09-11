@@ -2,6 +2,8 @@
 
 # Hello (world)! Im:
 
+<img src="./img/banner.jpg" alt="banner image">
+
 </div>
 💬 About me:<br><br>
 class Myself:<br>
