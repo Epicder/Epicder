@@ -1,9 +1,9 @@
 <div align="center">
-<img src="./img/disk.jpg" alt="disk">
+
 # Hello (world)! Im:
 
 <img src="./img/banner.jpg" alt="banner image">
-<img src="./img/separator.webp" alt="separator">
+<img src="./img/separator.jpg" alt="separator">
 
 </div>
 💬 About me:<br><br>
