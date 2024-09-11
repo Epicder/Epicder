@@ -22,10 +22,9 @@ Also, I *love* the **vaporwave aesthetic**, and I *care deeply* about the **arti
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Epicder&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Epicder&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Epicder&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="./img/car.gif" alt="cargif"><br/>
+<img src="./img/car.gif" alt="cargif" width="400" height="300"><br/>
 
 </div>
 
