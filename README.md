@@ -8,8 +8,9 @@
 </div>
 <br/>
 💬 About me:<br><br>
-Software developer - Python, Dart & Javascript specialist | Eng & Esp.
-Vaporwave enthusiast!
+Software developer - Python, Dart & Javascript specialist | Eng & Esp.<br>
+Vaporwave enthusiast!<br>
+<img src="./img/pc.gif" alt="pc_gif">
 class Myself:<br>
 ‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎  ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎def __init__(self):<br>
      ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ ‎‏‏‎  self.name = "Elián"<br>
