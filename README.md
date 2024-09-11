@@ -3,7 +3,6 @@
 # Hello (world)! Im:
 
 <img src="./img/banner.jpg" alt="banner image">
-‎‏‏‎
 <img src="./img/separator.jpg" alt="separator">
 </div>
 <br/>
@@ -15,6 +14,7 @@ class Myself:<br>
  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ self.age = 18<br>
  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ self.quote = "I will improve more and more everyday!"<br>
  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎  ‎‏‏‎ self.im_dedicated = True<br>
+ <img src="./img/separator.jpg" alt="separator">
 <br>
  Vaporwave enthusiast!<br>
  <div align="right">
