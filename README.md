@@ -10,7 +10,7 @@
 
 **Hi, I'm Elián!**
 *I'm interested in blending* **creativity** *with* **tech**, *exploring artistic approaches and innovative solutions.* My goal is to *continuously develop* my skills and **leave a lasting impact** on the industry by *revolutionizing* areas where I can **make a difference**.<br>
-Also, I *love* the **vaporwave aesthetic**, and I *care deeply* about the **artistic design** of things, so **you'll probably encounter** a lot of **vaporwave elements** in my projects! :p<br>
+Also, I *love* the **vaporwave aesthetic**, and I *care deeply* about the **artistic design** of things, so you'll probably encounter a lot of **vaporwave elements** in my projects! :p<br>
 
 <br/>
 <div align="center">
