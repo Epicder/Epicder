@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello (world)! Im:
+# Hello world! Im:
 
 <img src="./img/banner.jpg" alt="banner image">
 <img src="./img/separator.jpg" alt="separator">
